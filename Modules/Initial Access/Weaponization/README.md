@@ -146,7 +146,7 @@ meterpreter > run post/windows/manage/migrate
 
 ### Answer the questions below
 - What is the flag? Hint: Check the user desktop folder for the flag!
-  > Answer format: [`***{********************************}`]()
+  > Answer format: [`***{********************************}`]
 
 
 
