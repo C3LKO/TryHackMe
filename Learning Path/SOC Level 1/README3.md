@@ -117,8 +117,6 @@ According to [Akamai](https://blogs.akamai.com/2017/10/digging-deeper-an-in-dept
 
 So, the primary concept of a Fast Flux network is having multiple IP addresses associated with a domain name, which is constantly changing. Palo Alto created a great fictional scenario to explain Fast Flux: "[Fast Flux 101: How Cybercriminals Improve the Resilience of Their Infrastructure to Evade Detection and Law Enforcement Takedowns](https://unit42.paloaltonetworks.com/fast-flux-101/)"
 
-Use the following [any.run](https://app.any.run/tasks/a66178de-7596-4a05-945d-704dbf6b3b90/) URL to answer the questions below:
-
 
 ---
 
