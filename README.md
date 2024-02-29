@@ -1,7 +1,3 @@
-<div align="center">
-
-<h2 align="center"><a href="https://github.com/c3lko">C3LKO</a></h2>
-
 
 <img align="center" width="100" src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/purple%20warrior.jpg">
 
