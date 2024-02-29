@@ -10,12 +10,6 @@
 
 ---
 
-⫷ [**`Paths`**](#Paths) | [**`Modules`**](./Modules) | [**`Rooms`**](./Room) ⫸
-
-</div>
-
----
-
 # Paths
 - # [INTRODUCTION TO CYBER SECURITY](#introduction-to-cyber-security)
 - # [JR PENETRATION TESTER](#jr-penetration-tester-1)
