@@ -24,7 +24,7 @@
 - # [WEB FUNDAMENTALS](#web-fundamentals-1)
 - # [COMPTIA PENTEST+](#comptia-pentest-1)
 - # [OFFENSIVE PENTESTING](#offensive-pentesting-1)
-- # [CYBER DEFENSE](https://#cyber-defense-1)
+- # [CYBER DEFENSE](#cyber-defense-1)
 - # [RED TEAMING](#red-teaming-1)
 - # [SOC Level 1](#soc-level-1-1)
 - # [SOC Level 2](#soc-level-2-1)
