@@ -17,8 +17,6 @@
 - Use this path to work towards a career in cyber
     - Penetration Tester
 
-<details>
-    <summary>
         
  [Jr Penetration Tester](https://tryhackme.com/path-action/jrpenetrationtester/join)
 
