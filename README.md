@@ -1,4 +1,4 @@
-
+<div align="center">
 <img align="center" width="100" src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/purple%20warrior.jpg">
 
 ⫷ [C3lko TryHackMe Path](https://github.com/C3LKO/TryHackMe) ⫸
