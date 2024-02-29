@@ -20,12 +20,5 @@
 <details>
     <summary>
         
-✅ [Jr Penetration Tester](https://tryhackme.com/path-action/jrpenetrationtester/join)
-    </summary>
+ [Jr Penetration Tester](https://tryhackme.com/path-action/jrpenetrationtester/join)
 
-
-- [Certificate]()
-
-![image](https://user-images.githubusercontent.com/51442719/171312671-9c08c137-dea8-4142-a481-13a013780968.png)
-
-</details>
