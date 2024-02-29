@@ -13,16 +13,3 @@
 - 40 Hours
 
 - Easy
-
-<details>
-    <summary>
-        
-✅ [Pre Security](https://tryhackme.com/path-action/presecurity/join)
-    </summary>
-
-
-- [Certificate]()
-
-![image](https://user-images.githubusercontent.com/51442719/171312637-401f2896-bc45-4e4a-9925-bfbe871f0a85.png)
-
-</details>
