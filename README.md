@@ -193,7 +193,7 @@
       - [x] Exploit Active Directory
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/main/Assets/Purple-Team.jpg)
+![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/Purple-Team.jpg)
 
 - # [SOC Level 1](https://tryhackme.com/path-action/soclevel1/join)
   > <img width="400" src=""> <br>
@@ -208,7 +208,7 @@
       - [x] Investigate forensic artefacts
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/main/Assets/SOCL1.jpg)
+![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/SOCL1.jpg)
        
 
 - # [SOC Level 2](https://tryhackme.com/path-action/soclevel2/join)
@@ -224,7 +224,7 @@
       - [x] Investigate forensic artefacts
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/main/Assets/SOCL2.jpg)
+![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/SOCL2.jpg)
 
 ---
 
@@ -241,7 +241,7 @@
       - [x] Risk management & responding to
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/main/Assets/How-to-Become-a-Security-Engineer.jpg)
+![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/How-to-Become-a-Security-Engineer.jpg)
 
 ---
 
@@ -258,7 +258,7 @@
       - [x] Enumerate IAM users
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/main/Assets/attacking%20and%20defending%20AWS.jpg)
+![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/attacking%20and%20defending%20AWS.jpg)
 
 ---
 
@@ -275,7 +275,7 @@
       - [x] Applications of DevSecOps Frameworks
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/main/Assets/devsecops.jpg)
+![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/devsecops.jpg)
 
 
 ---
