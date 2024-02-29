@@ -35,7 +35,7 @@
 
 --
 
-# [🔒 TryHackMe 📝](https://tryhackme.com/)
+# [ TryHackMe Referral Link ](https://tryhackme.com/signup?referrer=6534f19aa24d38cdf8a9afe9/)
 
 <img align="center"  src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/THM_banner.jpg">
 
