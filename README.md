@@ -51,7 +51,7 @@
 
 ### Learning Paths & Certificates
 
-- # [INTRODUCTION TO CYBER SECURITY](https://github.com/C3LKO/TryHackMe/blob/main/Learning%20Path/Introduction%20to%20Cyber%20Security)
+- # [INTRODUCTION TO CYBER SECURITY](https://github.com/C3LKO/TryHackMe/blob/master/Learning%20Path/Introduction%20to%20Cyber%20Security)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EN3OOLIRSW.png"> <br>
     > Issued on: `08 December 2023` <br>
     > Cert ID: `THM-EN3OOLIRSW`
@@ -70,7 +70,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/200425097-02733f17-e9f8-4959-9731-edf817bc50c2.png)
 
-- # [JR PENETRATION TESTER](https://github.com/C3LKO/TryHackMe/blob/main/Learning%20Path/Jr%20Penetration%20Tester)
+- # [JR PENETRATION TESTER](https://github.com/C3LKO/TryHackMe/blob/master/Learning%20Path/Jr%20Penetration%20Tester)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TIUI3YXZXW.png"> <br>
     > Issued on: `01 Februar 2024` <br>
     > Cert ID: `THM-TIUI3YXZXW`
@@ -86,7 +86,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/200425120-18d80eee-08e9-4f09-a976-7a408639df22.png)
 
-- # [PRE SECURITY](https://github.com/C3LKO/TryHackMe/tree/main/Learning%20Path/Pre%20Security)
+- # [PRE SECURITY](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Pre%20Security)
     >  <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-18IAAYFIRW.png"> <br>
     > Issued on: `7 December 2023` <br>
     > Cert ID: `THM-18IAAYFIRW`
@@ -102,7 +102,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/200425320-5fea222d-0bb3-4005-bdec-6193ba457a13.png)
 
-- # [COMPLETE BEGINNER](https://github.com/C3LKO/TryHackMe/tree/main/Learning%20Path/Complete%20Beginner)
+- # [COMPLETE BEGINNER](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Complete%20Beginner)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-G6Y2KRXCTO.png"> <br>
     > Issued on: `23 December 2023` <br>
     > Cert ID: `THM-G6Y2KRXCTO`
@@ -118,7 +118,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/200425321-6d1f8e9c-568d-49a1-99a0-d285fe28b86a.png)
 
-- # [WEB FUNDAMENTALS](https://github.com/C3LKO/TryHackMe/tree/main/Learning%20Path/Web%20Fundamentals)
+- # [WEB FUNDAMENTALS](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Web%20Fundamentals)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZZQKKG2PZ1.png"> <br>
     > Issued on: `27 Februar 2024` <br>
     > Cert ID: `THM-ZZQKKG2PZ1`
@@ -134,7 +134,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/202055092-69060a44-47e1-4a30-b03b-6f8168ceab65.png)
 
-- # [COMPTIA PENTEST+](https://github.com/C3LKO/TryHackMe/tree/main/Learning%20Path/CompTIA%20Pentest%2B)
+- # [COMPTIA PENTEST+](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/CompTIA%20Pentest%2B)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PBBJBJJXMA.png"> <br>
   - [x] Path Progress (100%)
     > Issued on: `13 December 2023` <br>
@@ -148,7 +148,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/200425341-f93b8f27-a5d9-46b4-9efd-6ba1679f9a36.png)
 
-- # [OFFENSIVE PENTESTING](https://github.com/C3lko/TryHackMe/tree/main/Learning%20Path/Offensive%20Pentesting)
+- # [OFFENSIVE PENTESTING](https://github.com/C3lko/TryHackMe/tree/master/Learning%20Path/Offensive%20Pentesting)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OHCLIIGTRV.png"> <br>
   - [x] Path Progress (100%)
     - Issued on: `27 Februar 2024` <br>
@@ -164,7 +164,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/200425165-92a7fadd-f8a5-4b5b-814c-491f32fbbe6d.png)
 
-- # [CYBER DEFENSE](https://github.com/C3LKO/TryHackMe/tree/main/Learning%20Path/Cyber%20Defense)
+- # [CYBER DEFENSE](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Cyber%20Defense)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-K1OSFDIBCI.png"> <br>
   - [x] Path Progress (100%)
     - Issued on: `18 December 2023` <br>
