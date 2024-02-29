@@ -37,7 +37,7 @@
 
 # [🔒 TryHackMe 📝](https://tryhackme.com/)
 
-<img align="center"  src="https://github.com/C3LKO/TryHackMe/blob/main/Assets/THM_banner.jpg">
+<img align="center"  src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/THM_banner.jpg">
 
 
 <a href="https://tryhackme.com/p/C3LKO">
