@@ -142,7 +142,7 @@ meterpreter > run post/windows/manage/migrate
 - In this task, the goal is to generate a reverse shell payload of your choice and send it through the web application. 
 - Once the web application runs your payload, you should receive a connect back. 
 - Answer the question below and prove your access by finding the flag once you receive a reverse shell.
-- For reference, you can use the MSFVenom Cheat Sheet on this [`website`](https://thedarksource.com/msfvenom-cheat-sheet-create-metasploit-payloads/).
+- For reference, you can use the MSFVenom Cheat Sheet.
 
 ### Answer the questions below
 - What is the flag? Hint: Check the user desktop folder for the flag!
