@@ -1,3 +1,0 @@
-rule WeFoundThat {
-        condition: true
-}
