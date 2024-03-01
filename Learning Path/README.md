@@ -76,7 +76,6 @@
 
 # [RED TEAMING](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Red%20Teaming) `Intermediate`
 > Learn the skills needed to become a Red Team Operator
-
 - Use diverse techniques for initial access
 - Enumerate and persist on targets
 - Evade security solutions
@@ -86,7 +85,6 @@
 
 # [SOC Level 1](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/SOC%20Level%201) `Easy`
 > Learn the skills needed to work as a Junior Security Analyst in a Security Operations Centre
-
 - Detect and analyse traffic anomalies
 - Monitor endpoints for threats
 - Utilise SIEM tools to handle incidents
@@ -96,7 +94,6 @@
 
 # [SOC Level 2](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/SOC%20Level%202) `Intermediate`
 > Learn all the skills needed to take you to the next level in you SOC Analyst career.
-
 - Security operations
 - Introductory incident response
 - Malware analysis
@@ -106,10 +103,27 @@
 
 # [SECURITY ENGINEER](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Security%20Engineer) `Easy`
 > Learn the skills required to jumpstart your career in security engineering.
-
 - Network security engineering
 - System security engineering
 - Software security engineering
 - Risk management & responding
+
+---
+
+# [ATTACKING AND DEFENDING AWS](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Attacking%20and%20Defending%20AWS) `Intermediate`
+> Learn how attackers compromise AWS environments
+- Compromise EC2 instances
+- Reduce the privileges of policies
+- Abuse Lambda Authorizers
+- Enumerate IAM users
+
+---
+
+# [DEVSECOPS](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/DevSecOps) `Intermediate`
+> Acquire specialization in DevSecOps or broaden your understanding of product security.
+- Hands-on CI/CD Pipeline Security
+- Introduction to Securing IaC
+- Containerisation Security
+- Applications of DevSecOps Frameworks
 
 ---
