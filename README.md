@@ -220,9 +220,9 @@
 
 - # [Security Engineer](https://tryhackme.com/path-action/security-engineer-training/join)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HDLUBUPEFN.png"> <br>
-  - [x] Path Progress (89%)
-    - Issued on: `TBA` <br>
-    - Cert ID: `TBA`
+  - [x] Path Progress (100%)
+    - Issued on: `01.03.2024` <br>
+    - Cert ID: `THM-HDLUBUPEFN`
     - `Easy`
     - `56 Hours`
       - [x] Network security engineering
