@@ -50,6 +50,7 @@ Simple rules come first...
 -s-c x** /?u l
 These were not included in crackers I've seen, but are pretty efficient,
 so I include them near the beginning
+
 >6 '6
 >7 '7 l
 -c >6 '6 /?u l
