@@ -191,7 +191,7 @@
     - Issued on: `TBA` <br>
     - Cert ID: `TBA`
     - `Easy`
-    - `56 Hours`
+    - `52 Hours`
       - [x] Detect and analyse traffic anomalies
       - [x] Monitor endpoints for threats
       - [x] Utilise SIEM tools to handle incidents
@@ -207,7 +207,7 @@
     - Issued on: `TBA` <br>
     - Cert ID: `TBA`
     - `Easy`
-    - `56 Hours`
+    - `48 Hours`
       - [x] Detect and analyse traffic anomalies
       - [x] Monitor endpoints for threats
       - [x] Utilise SIEM tools to handle incidents
@@ -224,7 +224,7 @@
     - Issued on: `01.03.2024` <br>
     - Cert ID: `THM-HDLUBUPEFN`
     - `Easy`
-    - `56 Hours`
+    - `40 Hours`
       - [x] Network security engineering
       - [x] System security engineering
       - [x] Software security engineering
@@ -241,7 +241,7 @@
     - Issued on: `TBA` <br>
     - Cert ID: `TBA`
     - `Intermediate`
-    - `50 Hours`
+    - `40 Hours`
       - [x] Compromise EC2 instances
       - [x] Reduce the privileges of policies
       - [x] Abuse Lambda Authorizers
@@ -258,7 +258,7 @@
     - Issued on: `TBA` <br>
     - Cert ID: `TBA`
     - `Intermediate`
-    - `48 Hours`
+    - `40 Hours`
       - [x] Hands-on CI/CD Pipeline Security
       - [x] Introduction to Securing IaC
       - [x] Containerisation Security
