@@ -30,49 +30,50 @@ Redistribution and use in source and binary forms, with or without
 
 
 [Options]
- Wordlist file name, to be used in batch mode
+
+Wordlist file name, to be used in batch mode
 Wordlist = $JOHN/password.lst
- Use idle cycles only
+Use idle cycles only
 Idle = Y
- Crash recovery file saving delay in seconds
+Crash recovery file saving delay in seconds
 Save = 600
- Beep when a password is found (who needs this anyway?)
+Beep when a password is found (who needs this anyway?)
 Beep = N
 
- "Single crack" mode rules
+"Single crack" mode rules
 [List.Rules:Single]
- Simple rules come first...
+Simple rules come first...
 :
 -s x**
 -c (?a c Q
 -c l Q
 -s-c x** /?u l
- These were not included in crackers I've seen, but are pretty efficient,
- so I include them near the beginning
+These were not included in crackers I've seen, but are pretty efficient,
+so I include them near the beginning
 >6 '6
 >7 '7 l
 -c >6 '6 /?u l
 >5 '5
- Weird order, eh? Can't do anything about it, the order is based on the
- number of successful cracks...
+Weird order, eh? Can't do anything about it, the order is based on the
+number of successful cracks...
 <* d
 r c
 -c <* (?a d c
 -c >5 '5 /?u l
 -c u Q
--c )?a r l
--[:c] <* !?A \p1[lc] p
--c <* c Q d
--c >7 '7 /?u
->4 '4 l
--c <+ (?l c r
--c <+ )?l l Tm
->3 '3
--c >4 '4 /?u
--c >3 '3 /?u l
--c u Q r
-<* d M 'l f Q
--c <* l Q d M 'l f Q
- About 50% of single-mode-crackable passwords get cracked by now...
- >2 x12 ... >8 x18
->[2-8] x1\1
+  -c )?a r l
+  -[:c] <* !?A \p1[lc] p
+  -c <* c Q d
+  -c >7 '7 /?u
+  >4 '4 l
+  -c <+ (?l c r
+  -c <+ )?l l Tm
+  >3 '3
+  -c >4 '4 /?u
+  -c >3 '3 /?u l
+  -c u Q r
+  <* d M 'l f Q
+  -c <* l Q d M 'l f Q
+   About 50% of single-mode-crackable passwords get cracked by now...
+   >2 x12 ... >8 x18
+  >[2-8] x1\1
