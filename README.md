@@ -219,7 +219,7 @@
 ---
 
 - # [Security Engineer](https://tryhackme.com/path-action/security-engineer-training/join)
-  > <img width="400" src=""> <br>
+  > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HDLUBUPEFN.png"> <br>
   - [x] Path Progress (89%)
     - Issued on: `TBA` <br>
     - Cert ID: `TBA`
