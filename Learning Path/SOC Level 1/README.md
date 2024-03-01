@@ -7,9 +7,9 @@ Configure and manage security tools
 Develop and implement IDS signatures
 Escalate the security incidents to the Tier 2 and Team Lead if needed
 
-SECTION 1
-Cyber Defence Frameworks
-Junior Security Analyst Intro
+- SECTION 1
+-- Cyber Defence Frameworks
+-- Junior Security Analyst Intro
 Pyramid Of Pain
 Cyber Kill Chain
 Unified Kill Chain
