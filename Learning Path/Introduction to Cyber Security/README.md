@@ -1,6 +1,6 @@
 # [Introduction to Cyber Security](https://tryhackme.com/path-action/introtocyber/join)
 
-![Image not set yet](https://assets.tryhackme.com/img/paths/introduction-to-cyber.jpg)
+![Image not set yet](https://github.com/C3LKO/TryHackMe/blob/master/Assets/Introduction%20to%20Cyber%20Security.jpg)
 
 
 ### Learn the core skills required to start a career in cyber security
