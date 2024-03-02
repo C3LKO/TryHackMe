@@ -8,13 +8,13 @@
 #### This path will give you a hands-on introduction to different areas within cyber, including:
 
 
-        - Learn about different careers in cyber
-        - Hack your first application
-        - Defend against a live cyber attack
-        - Explore security topics in the industry
+  - Learn about different careers in cyber
+  - Hack your first application
+  - Defend against a live cyber attack
+  - Explore security topics in the industry
 
-                - Time required: 24 Hours
-                - Difficulty: Easy
+    - Time required: 24 Hours
+    - Difficulty: Easy
 
 ---        
 
