@@ -22,19 +22,19 @@
 
 
 SECTION 1
-Introduction to Cyber Security
-Intro to Offensive Security
-Intro to Defensive Security
-Careers in Cyber
+        - Introduction to Cyber Security
+        - Intro to Offensive Security
+        - Intro to Defensive Security
+        - Careers in Cyber
 
 SECTION 2
-Introduction to Offensive Security
-Web Application Security
-Operating System Security
-Network Security
+        - Introduction to Offensive Security
+        - Web Application Security
+        - Operating System Security
+        - Network Security
 
 SECTION 3
-Introduction to Defensive Security
-Intro to Digital Forensics
-Security Operations
+        - Introduction to Defensive Security
+        - Intro to Digital Forensics
+        - Security Operations
 
