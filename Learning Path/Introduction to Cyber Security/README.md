@@ -5,21 +5,18 @@
 
 ### Learn the core skills required to start a career in cyber security
 #### Cyber Security is a huge topic, and it can be challenging to know where to start. 
-##### This path will give you a hands-on introduction to different areas within cyber, including:
+#### This path will give you a hands-on introduction to different areas within cyber, including:
 
 
-- Learn about different careers in cyber
-- Hack your first application
-- Defend against a live cyber attack
-- Explore security topics in the industry
+        - Learn about different careers in cyber
+        - Hack your first application
+        - Defend against a live cyber attack
+        - Explore security topics in the industry
 
-- 24 Hours
+                - Time required: 24 Hours
+                - Difficulty: Easy
 
-- Easy
-
-        
 ---        
-
 
 SECTION 1
 
