@@ -37,17 +37,17 @@ SECTION 2
 
 SECTION 3
 
-   - Traffic Analysis Essentials <a href="LINK" target="_blank">Writeup</a>
+   - Traffic Analysis Essentials <a href="#" target="_blank">Writeup</a>
    - Snort <a href="https://medium.com/@cyberrey/snort-tryhackme-walkthrough-f89a3a035b2a" target="_blank">Writeup</a>
    - Snort Challenge - The Basics <a href="https://medium.com/@cyberrey/snort-challenge-the-basics-tryhackme-walkthrough-69174263d6e8" target="_blank">Writeup</a>
    - Snort Challenge: Live Attacks <a href="https://medium.com/@haircutfish/snort-challenge-live-attacks-room-f65858077692" target="_blank">Writeup</a>
-   - NetworkMiner <a href="LINK" target="_blank">Writeup</a>
-   - Zeek <a href="LINK" target="_blank">Writeup</a>
-   - Zeek Exercises <a href="LINK" target="_blank">Writeup</a>
-   - Brim <a href="LINK" target="_blank">Writeup</a>
-   - Wireshark: The Basics <a href="LINK" target="_blank">Writeup</a>
-   - Wireshark: Packet Operations <a href="LINK" target="_blank">Writeup</a>
-   - Wireshark: Traffic Analysis <a href="LINK" target="_blank">Writeup</a>
+   - NetworkMiner <a href="#" target="_blank">Writeup</a>
+   - Zeek <a href="#" target="_blank">Writeup</a>
+   - Zeek Exercises <a href="#" target="_blank">Writeup</a>
+   - Brim <a href="#" target="_blank">Writeup</a>
+   - Wireshark: The Basics <a href="#" target="_blank">Writeup</a>
+   - Wireshark: Packet Operations <a href="#" target="_blank">Writeup</a>
+   - Wireshark: Traffic Analysis <a href="#" target="_blank">Writeup</a>
 
 SECTION 4
 
