@@ -40,7 +40,7 @@ SECTION 3
     - Traffic Analysis Essentials
     - Snort
     - Snort Challenge - The Basics
-    - Snort Challenge - Live Attacks
+    - Snort Challenge - Live Attacks - [Writeup](https://medium.com/@haircutfish/snort-challenge-live-attacks-room-f65858077692) 
     - NetworkMiner
     - Zeek
     - Zeek Exercises
