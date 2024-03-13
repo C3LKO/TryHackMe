@@ -41,7 +41,7 @@ SECTION 3
    - Snort <a href="https://medium.com/@cyberrey/snort-tryhackme-walkthrough-f89a3a035b2a" target="_blank">Writeup</a>
    - Snort Challenge - The Basics <a href="https://medium.com/@cyberrey/snort-challenge-the-basics-tryhackme-walkthrough-69174263d6e8" target="_blank">Writeup</a>
    - Snort Challenge: Live Attacks <a href="https://medium.com/@haircutfish/snort-challenge-live-attacks-room-f65858077692" target="_blank">Writeup</a>
-   - NetworkMiner <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-1-through-task-4-527779fb49b7?source=user_profile---------28----------------------------" target="_blank">Writeup 1-4</a> , <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-5-tool-overview-2-task-6-version-differences-2de1f0cc4270?source=user_profile---------27----------------------------" target="_blank">Writeup 5-6</a> , <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-7-exercises-task-8-conclusion-cd44742d65e1?source=user_profile---------26----------------------------" target="_blank">Writeup 7-8</a>
+   - NetworkMiner <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-1-through-task-4-527779fb49b7" target="_blank">Writeup 1-4</a> , <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-5-tool-overview-2-task-6-version-differences-2de1f0cc4270" target="_blank">Writeup 5-6</a> , <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-7-exercises-task-8-conclusion-cd44742d65e1" target="_blank">Writeup 7-8</a>
    - Zeek <a href="#" target="_blank">Writeup</a>
    - Zeek Exercises <a href="" target="_blank">Writeup</a>
    - Brim <a href="#" target="_blank">Writeup</a>
