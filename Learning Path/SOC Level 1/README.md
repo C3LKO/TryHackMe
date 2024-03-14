@@ -43,7 +43,7 @@ SECTION 3
    - Snort Challenge: Live Attacks <a href="https://medium.com/@haircutfish/snort-challenge-live-attacks-room-f65858077692" target="_blank">Writeup</a>
    - NetworkMiner <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-1-through-task-4-527779fb49b7" target="_blank">Writeup 1-4</a> , <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-5-tool-overview-2-task-6-version-differences-2de1f0cc4270" target="_blank">Writeup 5-6</a> , <a href="https://medium.com/@haircutfish/tryhackme-networkminer-task-7-exercises-task-8-conclusion-cd44742d65e1" target="_blank">Writeup 7-8</a>
    - Zeek <a href="https://medium.com/@huglertomgaw/tryhackme-zeek-495038b8d5ec" target="_blank">Writeup</a>
-   - Zeek Exercises <a href="" target="_blank">Writeup</a>
+   - Zeek Exercises <a href="https://medium.com/@huglertomgaw/tryhackme-zeek-exercises-f51936a8f3f4" target="_blank">Writeup</a>
    - Brim <a href="#" target="_blank">Writeup</a>
    - Wireshark: The Basics <a href="#" target="_blank">Writeup</a>
    - Wireshark: Packet Operations <a href="#" target="_blank">Writeup</a>
