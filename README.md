@@ -31,7 +31,7 @@
 
 
 <a href="https://tryhackme.com/p/C3LKO">
-    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/C3LKO.png" alt="TryHackMe">
+    <img align="center" src="<script src="https://tryhackme.com/badge/2404963"></script>">
 </a>
 
 ---
