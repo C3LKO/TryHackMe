@@ -45,7 +45,7 @@ SECTION 3
    - Zeek <a href="https://medium.com/@huglertomgaw/tryhackme-zeek-495038b8d5ec" target="_blank">Writeup</a>
    - Zeek Exercises <a href="https://medium.com/@huglertomgaw/tryhackme-zeek-exercises-f51936a8f3f4" target="_blank">Writeup</a>
    - Brim <a href="https://medium.com/@huglertomgaw/thm-brim-ceda477aab37" target="_blank">Writeup</a>
-   - Wireshark: The Basics <a href="#" target="_blank">Writeup</a>
+   - Wireshark: The Basics <a href="https://medium.com/@huglertomgaw/thm-wireshark-the-basics-9d5fa3c9a60e" target="_blank">Writeup</a>
    - Wireshark: Packet Operations <a href="#" target="_blank">Writeup</a>
    - Wireshark: Traffic Analysis <a href="#" target="_blank">Writeup</a>
 
