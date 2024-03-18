@@ -51,7 +51,7 @@ SECTION 3
 
 SECTION 4
 
-   - Intro to Endpoint Security <a href="#" target="_blank">Writeup</a>
+   - Intro to Endpoint Security <a href="https://medium.com/@exploit_daily/tryhackme-intro-to-endpoint-security-4f3d184096ad" target="_blank">Writeup</a
    - Core Windows Processes <a href="#" target="_blank">Writeup</a>
    - Sysinternals <a href="#" target="_blank">Writeup</a>
    - Windows Event Logs <a href="#" target="_blank">Writeup</a>
