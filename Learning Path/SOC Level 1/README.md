@@ -62,7 +62,7 @@ SECTION 4
 SECTION 5
 
    - Introduction to SIEM <a href="#" target="_blank">Writeup</a>
-   - Investigating with ELK 101 <a href="#" target="_blank">Writeup</a>
+   - Investigating with ELK 101 <a href="https://medium.com/@huglertomgaw/tryhackme-investigating-with-elk-101-2457f64818dd" target="_blank">Writeup</a>
    - ItsyBitsy <a href="#" target="_blank">Writeup</a>
    - Splunk: Basics <a href="#" target="_blank">Writeup</a>
    - Incident handling with Splunk <a href="#" target="_blank">Writeup</a>
