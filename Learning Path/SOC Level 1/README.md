@@ -65,7 +65,7 @@ SECTION 5
    - Investigating with ELK 101 <a href="https://medium.com/@huglertomgaw/tryhackme-investigating-with-elk-101-2457f64818dd" target="_blank">Writeup</a>
    - ItsyBitsy <a href="#" target="_blank">Writeup</a>
    - Splunk: Basics <a href="#" target="_blank">Writeup</a>
-   - Incident handling with Splunk <a href="#" target="_blank">Writeup</a>
+   - Incident handling with Splunk <a href="https://medium.com/@Mx0o14/tryhackme-incident-handling-with-splunk-1f21fa04b644" target="_blank">Writeup</a>
    - Investigating with Splunk <a href="#" target="_blank">Writeup</a>
    - Benign <a href="#" target="_blank">Writeup</a>
 
