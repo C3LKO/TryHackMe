@@ -67,7 +67,7 @@ SECTION 5
    - Splunk: Basics <a href="#" target="_blank">Writeup</a>
    - Incident handling with Splunk <a href="https://medium.com/@Mx0o14/tryhackme-incident-handling-with-splunk-1f21fa04b644" target="_blank">Writeup</a>
    - Investigating with Splunk <a href="https://enescayvarli.medium.com/tryhackme-investigating-with-splunk-walkthrough-931448089" target="_blank">Writeup</a>
-   - Benign <a href="#" target="_blank">Writeup</a>
+   - Benign <a href="https://mattheweaton.net/posts/skilling-up-in-splunk-tryhackme-benign/" target="_blank">Writeup</a>
 
 SECTION 6
 
