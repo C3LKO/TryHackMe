@@ -77,7 +77,7 @@ SECTION 6
    - Linux Forensics <a href="#" target="_blank">Writeup</a>
    - Autopsy <a href="#" target="_blank">Writeup</a>
    - Redline <a href="#" target="_blank">Writeup</a>
-   - KAPE <a href="#" target="_blank">Writeup</a>
+   - KAPE <a href="https://medium.com/@laupeiip/tryhackme-kape-write-up-8100a4c08fe4" target="_blank">Writeup</a>
    - Volatility <a href="#" target="_blank">Writeup</a>
    - Velociraptor <a href="#" target="_blank">Writeup</a>
    - TheHive Project <a href="#" target="_blank">Writeup</a>
