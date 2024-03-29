@@ -79,7 +79,7 @@ SECTION 6
    - Redline <a href="#" target="_blank">Writeup</a>
    - KAPE <a href="https://medium.com/@laupeiip/tryhackme-kape-write-up-8100a4c08fe4" target="_blank">Writeup</a>
    - Volatility <a href="#" target="_blank">Writeup</a>
-   - Velociraptor <a href="#" target="_blank">Writeup</a>
+   - Velociraptor <a href="https://medium.com/@laupeiip/tryhackme-velociraptor-write-up-506b001e9cd8" target="_blank">Writeup</a>
    - TheHive Project <a href="#" target="_blank">Writeup</a>
    - Intro to Malware Analysis <a href="#" target="_blank">Writeup</a>
 
