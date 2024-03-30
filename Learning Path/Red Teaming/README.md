@@ -18,11 +18,11 @@
 
 SECTION 1
 
-    - Red Team Fundamentals
-    - Red Team Engagements
-    - Red Team Threat Intel
-    - Red Team OPSEC
-    - Intro to C2
+  - Red Team Fundamentals
+  - Red Team Engagements
+  - Red Team Threat Intel
+  - Red Team OPSEC
+  - Intro to C2
 
 SECTION 2
 
