@@ -80,7 +80,7 @@ SECTION 6
    - KAPE <a href="https://medium.com/@laupeiip/tryhackme-kape-write-up-8100a4c08fe4" target="_blank">Writeup</a>
    - Volatility <a href="#" target="_blank">Writeup</a>
    - Velociraptor <a href="https://medium.com/@laupeiip/tryhackme-velociraptor-write-up-506b001e9cd8" target="_blank">Writeup</a>
-   - TheHive Project <a href="#" target="_blank">Writeup</a>
+   - TheHive Project <a href="https://medium.com/@laupeiip/tryhackme-thehive-project-write-up-f7858f3c9e01" target="_blank">Writeup</a>
    - Intro to Malware Analysis <a href="#" target="_blank">Writeup</a>
 
 SECTION 7
