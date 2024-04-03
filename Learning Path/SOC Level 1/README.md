@@ -87,6 +87,6 @@ SECTION 7
 
    - Phishing Analysis Fundamentals <a href="https://simontaplin.net/2022/07/24/tryhackme-phishing-emails-module-1-walkthrough/" target="_blank">Writeup</a>
    - Phishing Emails in Action <a href="#" target="_blank">Writeup</a>
-   - Phishing Analysis Tools <a href="#" target="_blank">Writeup</a>
+   - Phishing Analysis Tools <a href="https://medium.com/@mikmrc/tryhackme-phishing-analysis-tools-4164ce6a59bd" target="_blank">Writeup</a>
    - Phishing Prevention <a href="#" target="_blank">Writeup</a>
    - The Greenholt Phish <a href="#" target="_blank">Writeup</a>
