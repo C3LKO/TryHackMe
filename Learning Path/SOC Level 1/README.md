@@ -89,4 +89,4 @@ SECTION 7
    - Phishing Emails in Action <a href="#" target="_blank">Writeup</a>
    - Phishing Analysis Tools <a href="https://medium.com/@mikmrc/tryhackme-phishing-analysis-tools-4164ce6a59bd" target="_blank">Writeup</a>
    - Phishing Prevention <a href="#" target="_blank">Writeup</a>
-   - The Greenholt Phish <a href="#" target="_blank">Writeup</a>
+   - The Greenholt Phish <a href="https://medium.com/@azriq/tryhackme-challenge-the-greenholt-phish-write-up-6fcbd0a9c004" target="_blank">Writeup</a>
