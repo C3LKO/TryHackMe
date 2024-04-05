@@ -186,16 +186,17 @@
 ![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/Purple-Team.jpg)
 
 - # [SOC Level 1](https://tryhackme.com/path-action/soclevel1/join)
-  > <img width="400" src=""> <br>
-  - [x] Path Progress (92%)
-    - Issued on: `TBA` <br>
-    - Cert ID: `TBA`
+  > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VCIZQUFA5P.png"> <br>
+  - [x] Path Progress (100%)
+    - Issued on: `05 April 2024` <br>
+    - Cert ID: `THM-VCIZQUFA5P`
     - `Easy`
     - `52 Hours`
       - [x] Detect and analyse traffic anomalies
       - [x] Monitor endpoints for threats
       - [x] Utilise SIEM tools to handle incidents
       - [x] Investigate forensic artefacts
+      - [x] Phishing investigation
 ---
 
 ![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/SOCL1.jpg)
