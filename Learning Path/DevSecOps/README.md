@@ -18,33 +18,33 @@
 
 SECTION 1
 
-    - Introduction to DevSecOps
-    - SDLC
-    - SSDLC
+  - Introduction to DevSecOps <a href="https://infosecwriteups.com/sdlc-software-development-lifecycle-tryhackme-writeup-walkthropugh-by-md-amiruddin-125b0f8fda2d" target="_blank">Writeup</a>
+  - SDLC
+  - SSDLC
 
 SECTION 2
 
-    - Intro to Pipeline Automation
-    - Source Code Security
-    - CI/CD and Build Security
+  - Intro to Pipeline Automation
+  - Source Code Security
+  - CI/CD and Build Security
 
 SECTION 3
 
-    - Dependency Management
-    - SAST
-    - DAST
-    - Mother's Secret
+  - Dependency Management
+  - SAST
+  - DAST
+  - Mother's Secret
 
 SECTION 4
 
-    - Intro to Containerisation
-    - Intro to Docker
-    - Intro to Kubernetes
-    - Container Vulnerabilities
-    - Container Hardening
+  - Intro to Containerisation
+  - Intro to Docker
+  - Intro to Kubernetes
+  - Container Vulnerabilities
+  - Container Hardening
 
 SECTION 5
 
-    - Intro to IaC
-    - On-Premises IaC
-    - Cloud-based IaC
+  - Intro to IaC
+  - On-Premises IaC
+  - Cloud-based IaC
