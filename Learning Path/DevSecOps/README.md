@@ -18,7 +18,7 @@
 
 SECTION 1
 
-  - Introduction to DevSecOps 
+  - Introduction to DevSecOps <a href="https://medium.com/@kumarishefu.4507/try-hack-me-introduction-to-devsecops-write-up-6be1e42f2a31" target="_blank">Writeup</a>
   - SDLC <a href="https://infosecwriteups.com/sdlc-software-development-lifecycle-tryhackme-writeup-walkthropugh-by-md-amiruddin-125b0f8fda2d" target="_blank">Writeup</a>
   - SSDLC <a href="https://medium.com/@tr1n1ty8/tryhackme-ssdlc-writeup-2b55cfa9a741" target="_blank">Writeup</a>
 
