@@ -26,7 +26,7 @@ SECTION 2
 
   - Intro to Pipeline Automation
   - Source Code Security <a href="https://medium.com/@embossdotar/tryhackme-source-code-security-writeup-8db50e5e143c" target="_blank">Writeup</a>
-  - CI/CD and Build Security
+  - CI/CD and Build Security <a href="https://medium.com/@DevSec0ps/ci-cd-and-build-security-tryhackme-thm-write-up-walkthrough-c672b7762cf9" target="_blank">Writeup</a>
 
 SECTION 3
 
