@@ -30,7 +30,7 @@ SECTION 2
 
 SECTION 3
 
-  - Dependency Management
+  - Dependency Management <a href="https://infosecwriteups.com/dependency-management-tryhackme-writeup-walkthrough-by-md-amiruddin-842858d846db" target="_blank">Writeup</a>
   - SAST
   - DAST
   - Mother's Secret
