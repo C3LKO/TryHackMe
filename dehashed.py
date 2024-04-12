@@ -7,7 +7,7 @@ def main():
     if len(sys.argv) != 4:
         print("Usage: python password-recon.py [TARGET-DOMAIN] [USERNAME] [API-KEY]")
         print("Note: Requires an active DeHashed.com account and API Key")
-        print("Author: Tyler Ramsbey from Hack Smarter - https://hacksmarter.org")
+        print("Author: C3LKO from Hack Enterprises")
         return
 
     target_domain = sys.argv[1]
