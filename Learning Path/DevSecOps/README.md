@@ -45,6 +45,6 @@ SECTION 4
 
 SECTION 5
 
-  - Intro to IaC
+  - Intro to IaC <a href="https://medium.com/@DevSec0ps/intro-to-iac-tryhackme-thm-write-up-walkthrough-5523d652e93b" target="_blank">Writeup</a>
   - On-Premises IaC
   - Cloud-based IaC
