@@ -24,7 +24,7 @@ SECTION 1
 
    - Intro to Logs <a href="https://medium.com/@joseruizsec/soc-analyst-level-2-tryhackme-log-analysis-intro-to-logs-b7b2bfbc66b5" target="_blank">Writeup</a>
    - Log Operations
-   - Intro to Log Analysis
+   - Intro to Log Analysis <a href="https://medium.com/@igor670/tryhackme-intro-to-log-analysis-walkthrough-5a9a51911c76" target="_blank">Writeup</a>
 
 SECTION 2
 
