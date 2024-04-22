@@ -28,7 +28,7 @@ SECTION 1
 
 SECTION 2
 
-   - Splunk: Exploring SPL
+   - Splunk: Exploring SPL <a href="https://sibermetin.com/splunk-exploring-spl" target="_blank">Writeup</a>
    - Splunk: Setting up a SOC Lab
    - Splunk: Dashboards and Reports
    - Splunk: Data Manipulation
