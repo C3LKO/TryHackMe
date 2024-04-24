@@ -30,7 +30,7 @@ SECTION 2
 
    - Splunk: Exploring SPL <a href="https://sibermetin.com/splunk-exploring-spl" target="_blank">Writeup</a>
    - Splunk: Setting up a SOC Lab <a href="https://medium.com/@abhishek.rk96/tryhackme-splunk-setting-up-a-soc-lab-1fba3ab043de" target="_blank">Writeup</a>
-   - Splunk: Dashboards and Reports
+   - Splunk: Dashboards and Reports <a href="https://vyshak-hari.medium.com/splunk-dashboards-and-reports-by-tryhackme-41f1ba6ed859" target="_blank">Writeup</a>
    - Splunk: Data Manipulation
    - Fixit
 
