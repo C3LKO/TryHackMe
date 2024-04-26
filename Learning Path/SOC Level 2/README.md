@@ -32,7 +32,7 @@ SECTION 2
    - Splunk: Setting up a SOC Lab <a href="https://medium.com/@abhishek.rk96/tryhackme-splunk-setting-up-a-soc-lab-1fba3ab043de" target="_blank">Writeup</a>
    - Splunk: Dashboards and Reports <a href="https://vyshak-hari.medium.com/splunk-dashboards-and-reports-by-tryhackme-41f1ba6ed859" target="_blank">Writeup</a>
    - Splunk: Data Manipulation <a href="https://medium.com/@joseruizsec/soc-analyst-level-2-tryhackme-splunk-data-manipulation-c3007fd29cfc" target="_blank">Writeup</a>
-   - Fixit
+   - Fixit <a href="https://medium.com/@abhishek.rk96/tryhackme-fixit-writeup-02b2460e6f66" target="_blank">Writeup</a>
 
 SECTION 3
 
