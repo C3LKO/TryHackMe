@@ -37,7 +37,7 @@ SECTION 2
 SECTION 3
 
    - Logstash: Data Processing Unit <a href="https://medium.com/@0x4C1D/try-hack-me-logstash-data-processing-unit-walkthrough-1242cc368015" target="_blank">Writeup</a>
-   - Custom Alert Rules in Wazuh
+   - Custom Alert Rules in Wazuh <a href="https://medium.com/@josephalan17201972/custom-alert-rules-in-wazuh-tryhackme-write-up-613e8e99a6b3" target="_blank">Writeup</a>
    - Advanced ELK Queries
    - Slingshot
 
