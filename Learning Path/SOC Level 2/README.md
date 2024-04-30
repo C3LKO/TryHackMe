@@ -39,7 +39,7 @@ SECTION 3
    - Logstash: Data Processing Unit <a href="https://medium.com/@0x4C1D/try-hack-me-logstash-data-processing-unit-walkthrough-1242cc368015" target="_blank">Writeup</a>
    - Custom Alert Rules in Wazuh <a href="https://medium.com/@josephalan17201972/custom-alert-rules-in-wazuh-tryhackme-write-up-613e8e99a6b3" target="_blank">Writeup</a>
    - Advanced ELK Queries <a href="https://medium.com/@Mohamed-Medhat/advanced-elk-queries-tryhackme-writeup-7edee6864d11" target="_blank">Writeup</a>
-   - Slingshot
+   - Slingshot <a href="https://medium.com/@MDK_BE/tryhackme-slingshot-walkthrough-fa6c06c11b0e" target="_blank">Writeup</a>
 
 SECTION 4
 
