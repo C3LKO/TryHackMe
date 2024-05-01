@@ -43,7 +43,7 @@ SECTION 3
 
 SECTION 4
 
-   - Intro to Detection Engineering
+   - Intro to Detection Engineering <a href="https://medium.com/@emrah-yigiz/intro-to-detection-engineering-tryhackme-thm-walkthrough-37af449bdee2" target="_blank">Writeup</a>
    - Tactical Detection
    - Threat Intelligence for SOC
    - Sigma
