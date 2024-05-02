@@ -44,7 +44,7 @@ SECTION 3
 SECTION 4
 
    - Intro to Detection Engineering <a href="https://medium.com/@emrah-yigiz/intro-to-detection-engineering-tryhackme-thm-walkthrough-37af449bdee2" target="_blank">Writeup</a>
-   - Tactical Detection
+   - Tactical Detection <a href="https://medium.com/@kumarishefu.4507/try-hack-me-tactical-detection-write-up-82d2f086641d" target="_blank">Writeup</a>
    - Threat Intelligence for SOC
    - Sigma
    - SigHunt
