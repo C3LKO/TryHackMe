@@ -46,7 +46,7 @@ SECTION 4
    - Intro to Detection Engineering <a href="https://medium.com/@emrah-yigiz/intro-to-detection-engineering-tryhackme-thm-walkthrough-37af449bdee2" target="_blank">Writeup</a>
    - Tactical Detection <a href="https://medium.com/@kumarishefu.4507/try-hack-me-tactical-detection-write-up-82d2f086641d" target="_blank">Writeup</a>
    - Threat Intelligence for SOC <a href="https://medium.com/@0x4C1D/try-hack-me-threat-intelligence-for-soc-walkthrough-1584f09e144" target="_blank">Writeup</a>
-   - Sigma
+   - Sigma <a href="https://medium.com/@kumarishefu.4507/try-hack-me-sigma-detection-rule-write-up-2ea6434336b1" target="_blank">Writeup</a>
    - SigHunt
    - Aurora EDR
    - SOAR
