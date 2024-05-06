@@ -48,7 +48,7 @@ SECTION 4
    - Threat Intelligence for SOC <a href="https://medium.com/@0x4C1D/try-hack-me-threat-intelligence-for-soc-walkthrough-1584f09e144" target="_blank">Writeup</a>
    - Sigma <a href="https://medium.com/@kumarishefu.4507/try-hack-me-sigma-detection-rule-write-up-2ea6434336b1" target="_blank">Writeup</a>
    - SigHunt <a href="https://medium.com/@Mohamed-Medhat/sighunt-tryhackme-writeup-1e5982a6e000" target="_blank">Writeup</a>
-   - Aurora EDR 
+   - Aurora EDR <a href="https://medium.com/@Mohamed-Medhat/aurora-edr-tryhackme-writeup-cf23bdccfe18" target="_blank">Writeup</a>
    - SOAR
 
 SECTION 5
