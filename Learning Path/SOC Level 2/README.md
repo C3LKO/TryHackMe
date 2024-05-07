@@ -49,7 +49,7 @@ SECTION 4
    - Sigma <a href="https://medium.com/@kumarishefu.4507/try-hack-me-sigma-detection-rule-write-up-2ea6434336b1" target="_blank">Writeup</a>
    - SigHunt <a href="https://medium.com/@Mohamed-Medhat/sighunt-tryhackme-writeup-1e5982a6e000" target="_blank">Writeup</a>
    - Aurora EDR <a href="https://medium.com/@Mohamed-Medhat/aurora-edr-tryhackme-writeup-cf23bdccfe18" target="_blank">Writeup</a>
-   - SOAR
+   - SOAR <a href="" target="_blank">Writeup</a>
 
 SECTION 5
 
