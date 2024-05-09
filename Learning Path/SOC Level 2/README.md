@@ -54,7 +54,7 @@ SECTION 4
 SECTION 5
 
    - Threat Hunting: Introduction <a href="https://medium.com/@josephalan17201972/threat-hunting-introduction-12c09b824a55" target="_blank">Writeup</a>
-   - Threat Hunting: Foothold
+   - Threat Hunting: Foothold <a href="https://medium.com/@0x4C1D/try-hack-me-threat-hunting-foothold-walkthrough-845c3ec6723d" target="_blank">Writeup</a>
    - Threat Hunting: Pivoting
    - Threat Hunting: Endgame
    - Hunt Me I: Payment Collectors
