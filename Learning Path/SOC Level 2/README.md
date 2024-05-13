@@ -57,7 +57,7 @@ SECTION 5
    - Threat Hunting: Foothold <a href="https://medium.com/@0x4C1D/try-hack-me-threat-hunting-foothold-walkthrough-845c3ec6723d" target="_blank">Writeup</a>
    - Threat Hunting: Pivoting <a href="https://medium.com/@josephalan17201972/threat-hunting-pivoting-tryhackme-write-up-ab451dcc7b13" target="_blank">Writeup</a>
    - Threat Hunting: Endgame <a href="https://medium.com/@0x4C1D/try-hack-me-threat-hunting-endgame-walkthrough-18edf8565e9c" target="_blank">Writeup</a>
-   - Hunt Me I: Payment Collectors
+   - Hunt Me I: Payment Collectors <a href="https://medium.com/@0x4C1D/try-hack-me-hunt-me-i-payment-collectors-walkthrough-5a26c86cd515" target="_blank">Writeup</a>
    - Hunt Me II: Typo Squatters
 
 SECTION 6
