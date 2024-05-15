@@ -62,7 +62,7 @@ SECTION 5
 
 SECTION 6
 
-   - Intro to Threat Emulation
+   - Intro to Threat Emulation <a href="https://medium.com/@itsmedeerej/intro-to-threat-emulation-dced9059dc4" target="_blank">Writeup</a>
    - Threat Modelling
    - Atomic Red Team
    - CALDERA
