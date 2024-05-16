@@ -63,7 +63,7 @@ SECTION 5
 SECTION 6
 
    - Intro to Threat Emulation <a href="https://medium.com/@itsmedeerej/intro-to-threat-emulation-dced9059dc4" target="_blank">Writeup</a>
-   - Threat Modelling 
+   - Threat Modelling <a href="hhttps://medium.com/@0xVirtu4l/threat-modelling-thm-walkthrough-4ea342148e7c" target="_blank">Writeup</a>
    - Atomic Red Team <a href="https://medium.com/@abhishek.rk96/tryhackme-atomicredteam-writeup-c74f62d1b750" target="_blank">Writeup</a>
    - CALDERA
    - Atomic Bird Goes Purple #1
