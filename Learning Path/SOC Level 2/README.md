@@ -67,7 +67,7 @@ SECTION 6
    - Atomic Red Team <a href="https://medium.com/@abhishek.rk96/tryhackme-atomicredteam-writeup-c74f62d1b750" target="_blank">Writeup</a>
    - CALDERA
    - Atomic Bird Goes Purple #1 <a href="https://medium.com/@0x4C1D/try-hack-me-atomic-bird-goes-purple-1-walkthrough-becc47a0b7a1" target="_blank">Writeup</a>
-   - Atomic Bird Goes Purple #2
+   - Atomic Bird Goes Purple #2 <a href="https://medium.com/@0x4C1D/try-hack-me-atomic-bird-goes-purple-2-walkthrough-56e14681f5b3" target="_blank">Writeup</a>
 
 SECTION 7
 
