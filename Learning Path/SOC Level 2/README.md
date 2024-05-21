@@ -72,7 +72,7 @@ SECTION 6
 SECTION 7
 
    - Preparation
-   - Identification & Scoping
+   - Identification & Scoping <a href="https://medium.com/@0x4C1D/tryhackme-identification-scoping-walkthrough-6f3c0f953e3d" target="_blank">Writeup</a>
    - Threat Intel & Containment
    - Eradication & Remediation
    - Lessons Learned
