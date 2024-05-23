@@ -74,7 +74,7 @@ SECTION 7
    - Preparation
    - Identification & Scoping <a href="https://medium.com/@0x4C1D/tryhackme-identification-scoping-walkthrough-6f3c0f953e3d" target="_blank">Writeup</a>
    - Threat Intel & Containment
-   - Eradication & Remediation
+   - Eradication & Remediation <a href="https://medium.com/@0x4C1D/try-hack-me-eradication-remediation-walkthrough-35c8d88d515f" target="_blank">Writeup</a>
    - Lessons Learned
    - Tardigrade
 
