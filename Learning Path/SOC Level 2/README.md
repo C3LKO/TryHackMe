@@ -75,7 +75,7 @@ SECTION 7
    - Identification & Scoping <a href="https://medium.com/@0x4C1D/tryhackme-identification-scoping-walkthrough-6f3c0f953e3d" target="_blank">Writeup</a>
    - Threat Intel & Containment
    - Eradication & Remediation <a href="https://medium.com/@0x4C1D/try-hack-me-eradication-remediation-walkthrough-35c8d88d515f" target="_blank">Writeup</a>
-   - Lessons Learned
+   - Lessons Learned <a href="https://medium.com/@embossdotar/tryhackme-lessons-learned-writeup-d5a5e9baded8" target="_blank">Writeup</a>
    - Tardigrade
 
 SECTION 8
