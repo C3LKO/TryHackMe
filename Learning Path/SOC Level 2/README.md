@@ -76,7 +76,7 @@ SECTION 7
    - Threat Intel & Containment
    - Eradication & Remediation <a href="https://medium.com/@0x4C1D/try-hack-me-eradication-remediation-walkthrough-35c8d88d515f" target="_blank">Writeup</a>
    - Lessons Learned <a href="https://medium.com/@embossdotar/tryhackme-lessons-learned-writeup-d5a5e9baded8" target="_blank">Writeup</a>
-   - Tardigrade
+   - Tardigrade <a href="https://infosecwriteups.com/tardigrade-room-tryhackme-writeup-walkthrough-by-md-amiruddin-4f506fa6d6df" target="_blank">Writeup</a>
 
 SECTION 8
 
