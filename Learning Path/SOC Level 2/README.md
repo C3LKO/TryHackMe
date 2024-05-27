@@ -81,7 +81,7 @@ SECTION 7
 SECTION 8
 
    - x86 Architecture Overview
-   - x86 Assembly Crash Course
+   - x86 Assembly Crash Course <a href="https://medium.com/@embossdotar/tryhackme-x86-assembly-crash-course-writeup-e2b7aaf7864f" target="_blank">Writeup</a>
    - Windows Internals
    - Dissecting PE Headers
    - Basic Static Analysis
