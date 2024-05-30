@@ -85,7 +85,7 @@ SECTION 8
    - Windows Internals
    - Dissecting PE Headers
    - Basic Static Analysis
-   - MalBuster
+   - MalBuster <a href="https://medium.com/@josephalan17201972/tryhackme-malbuster-write-up-516e1691d58f" target="_blank">Writeup</a>
    - Advanced Static Analysis
    - Basic Dynamic Analysis
    - Dynamic Analysis: Debugging
