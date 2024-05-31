@@ -86,7 +86,7 @@ SECTION 8
    - Dissecting PE Headers
    - Basic Static Analysis
    - MalBuster <a href="https://medium.com/@josephalan17201972/tryhackme-malbuster-write-up-516e1691d58f" target="_blank">Writeup</a>
-   - Advanced Static Analysis
+   - Advanced Static Analysis <a href="https://medium.com/@embossdotar/tryhackme-advanced-static-analysis-writeup-67957dddc0cc" target="_blank">Writeup</a>
    - Basic Dynamic Analysis
    - Dynamic Analysis: Debugging
    - Anti-Reverse Engineering
