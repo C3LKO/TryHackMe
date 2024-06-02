@@ -88,6 +88,6 @@ SECTION 8
    - MalBuster <a href="https://medium.com/@josephalan17201972/tryhackme-malbuster-write-up-516e1691d58f" target="_blank">Writeup</a>
    - Advanced Static Analysis <a href="https://medium.com/@embossdotar/tryhackme-advanced-static-analysis-writeup-67957dddc0cc" target="_blank">Writeup</a>
    - Basic Dynamic Analysis
-   - Dynamic Analysis: Debugging
+   - Dynamic Analysis: Debugging <a href="https://medium.com/@0x4C1D/try-hack-me-dynamic-analysis-debugging-walkthrough-43ccd789f512" target="_blank">Writeup</a>
    - Anti-Reverse Engineering
    - MalDoc: Static Analysis
