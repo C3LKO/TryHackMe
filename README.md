@@ -249,7 +249,7 @@
       - [x] Enumerate IAM users
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/attacking%20and%20defending%20AWS.jpg)
+<img src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/attacking%20and%20defending%20AWS.jpg" width=50% height=50%>
 
 ---
 
