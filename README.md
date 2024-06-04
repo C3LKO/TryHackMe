@@ -203,10 +203,10 @@
        
 
 - # [SOC Level 2](https://tryhackme.com/path-action/soclevel2/join)
-  > <img width="400" src=""> <br>
-  - [x] Path Progress (41%)
-    - Issued on: `TBA` <br>
-    - Cert ID: `TBA`
+  > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PE2CFNUVTY.png"> <br>
+  - [x] Path Progress (100%)
+    - Issued on: `05 June 2024` <br>
+    - Cert ID: `THM-PE2CFNUVTY`
     - `Easy`
     - `48 Hours`
       - [x] Detect and analyse traffic anomalies
@@ -237,7 +237,7 @@
 ---
 
 - # [Attacking and Defending AWS](https://tryhackme.com/path-action/attackinganddefendingaws/join)
-  > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PE2CFNUVTY.png"> <br>
+  > <img width="400" src=""> <br>
   - [x] Path Progress (25%)
     - Issued on: `TBA` <br>
     - Cert ID: `TBA`
@@ -255,9 +255,9 @@
 
 - # [DevSecOps](https://tryhackme.com/path-action/devsecops/join)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EKJM5TAY6G.png"> <br>
-  - [x] Path Progress (25%)
-    - Issued on: `TBA` <br>
-    - Cert ID: `TBA`
+  - [x] Path Progress (100%)
+    - Issued on: `18 April 2024` <br>
+    - Cert ID: `THM-EKJM5TAY6G`
     - `Intermediate`
     - `40 Hours`
       - [x] Hands-on CI/CD Pipeline Security
