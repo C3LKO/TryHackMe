@@ -152,7 +152,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/200425165-92a7fadd-f8a5-4b5b-814c-491f32fbbe6d.png)
+<img src="https://user-images.githubusercontent.com/51442719/200425165-92a7fadd-f8a5-4b5b-814c-491f32fbbe6d.png" width=50% height=50%>
 
 - # [CYBER DEFENSE](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Cyber%20Defense)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-K1OSFDIBCI.png"> <br>
