@@ -266,7 +266,7 @@
       - [x] Applications of DevSecOps Frameworks
 ---
 
-![image](https://github.com/C3LKO/TryHackMe/blob/master/Assets/devsecops.jpg)
+<img src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/devsecops.jpg" width=50% height=50%>
 
 
 ---
