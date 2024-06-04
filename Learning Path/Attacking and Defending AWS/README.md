@@ -20,33 +20,33 @@
 
 SECTION 1
 
-    - AWS: Cloud 101
-    - AWS Basic Concepts
+  - AWS: Cloud 101
+  - AWS Basic Concepts
 
 SECTION 2
 
-    - Introduction to AWS IAM
-    - IAM Principals
-    - IAM Permissions
-    - IAM Credentials
-    - The Quest for Least Privilege
-    - STS Credentials Lab
+  - Introduction to AWS IAM
+  - IAM Principals
+  - IAM Permissions
+  - IAM Credentials
+  - The Quest for Least Privilege
+  - STS Credentials Lab
 
 SECTION 3
 
-    - AWS S3 - Attack and Defense
-    - Amazon EC2 - Attack & Defense
-    - Amazon EC2 - Data Exfiltration
-    - AWS VPC - Attack and Defense
-    - AWS VPC - Data Exfiltration
+  - AWS S3 - Attack and Defense
+  - Amazon EC2 - Attack & Defense
+  - Amazon EC2 - Data Exfiltration
+  - AWS VPC - Attack and Defense
+  - AWS VPC - Data Exfiltration
 
 SECTION 4
 
-    - AWS Lambda
-    - Lambda - Data Exfiltration
-    - AWS API Gateway
+  - AWS Lambda
+  - Lambda - Data Exfiltration
+  - AWS API Gateway
 
 SECTION 5
 
-    - AWS IAM Initial Access
-    - AWS IAM Enumeration
+  - AWS IAM Initial Access
+  - AWS IAM Enumeration
