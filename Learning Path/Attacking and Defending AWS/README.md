@@ -1,6 +1,6 @@
 # [Attacking and Defending AWS](https://tryhackme.com/path-action/attackinganddefendingaws/join)
  
-![Image not set yet](https://github.com/C3LKO/TryHackMe/blob/master/Assets/attacking%20and%20defending%20AWS.jpg)
+<img src="https://github.com/C3LKO/TryHackMe/blob/master/Assets/attacking%20and%20defending%20AWS.jpg" width=50% height=50%>
 
 ### Amazon Web Services is the most popular cloud service provider in the world offering hundreds of services. With a large number of businesses adopting cloud technologies like AWS, cyber practitioners must understand the security implications of moving to the cloud.
 
