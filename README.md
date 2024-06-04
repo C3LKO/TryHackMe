@@ -58,7 +58,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/200425097-02733f17-e9f8-4959-9731-edf817bc50c2.png)
+<img src="https://user-images.githubusercontent.com/51442719/200425097-02733f17-e9f8-4959-9731-edf817bc50c2.png" width=50% height=50%>
 
 - # [JR PENETRATION TESTER](https://github.com/C3LKO/TryHackMe/blob/master/Learning%20Path/Jr%20Penetration%20Tester)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TIUI3YXZXW.png"> <br>
@@ -74,7 +74,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/200425120-18d80eee-08e9-4f09-a976-7a408639df22.png)
+<img src="https://user-images.githubusercontent.com/51442719/200425120-18d80eee-08e9-4f09-a976-7a408639df22.png" width=50% height=50%>
 
 - # [PRE SECURITY](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Pre%20Security)
     >  <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-18IAAYFIRW.png"> <br>
@@ -90,7 +90,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/200425320-5fea222d-0bb3-4005-bdec-6193ba457a13.png)
+<img src="https://user-images.githubusercontent.com/51442719/200425320-5fea222d-0bb3-4005-bdec-6193ba457a13.png" width=50% height=50%>
 
 - # [COMPLETE BEGINNER](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Complete%20Beginner)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-G6Y2KRXCTO.png"> <br>
@@ -106,7 +106,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/200425321-6d1f8e9c-568d-49a1-99a0-d285fe28b86a.png)
+<img src="https://user-images.githubusercontent.com/51442719/200425321-6d1f8e9c-568d-49a1-99a0-d285fe28b86a.png" width=50% height=50%>
 
 - # [WEB FUNDAMENTALS](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/Web%20Fundamentals)
     > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZZQKKG2PZ1.png"> <br>
@@ -122,7 +122,8 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/202055092-69060a44-47e1-4a30-b03b-6f8168ceab65.png)
+<img src="https://user-images.githubusercontent.com/51442719/202055092-69060a44-47e1-4a30-b03b-6f8168ceab65.png" width=50% height=50%>
+
 
 - # [COMPTIA PENTEST+](https://github.com/C3LKO/TryHackMe/tree/master/Learning%20Path/CompTIA%20Pentest%2B)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PBBJBJJXMA.png"> <br>
@@ -136,7 +137,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/200425341-f93b8f27-a5d9-46b4-9efd-6ba1679f9a36.png)
+<img src="https://user-images.githubusercontent.com/51442719/200425341-f93b8f27-a5d9-46b4-9efd-6ba1679f9a36.png" width=50% height=50%>
 
 - # [OFFENSIVE PENTESTING](https://github.com/C3lko/TryHackMe/tree/master/Learning%20Path/Offensive%20Pentesting)
   > <img width="400" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OHCLIIGTRV.png"> <br>
